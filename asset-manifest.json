@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/MovieSearchApp/static/js/main.460b507a.chunk.js",
+    "main.js.map": "/MovieSearchApp/static/js/main.460b507a.chunk.js.map",
+    "runtime-main.js": "/MovieSearchApp/static/js/runtime-main.f74b2c24.js",
+    "runtime-main.js.map": "/MovieSearchApp/static/js/runtime-main.f74b2c24.js.map",
+    "static/js/2.7ad49b23.chunk.js": "/MovieSearchApp/static/js/2.7ad49b23.chunk.js",
+    "static/js/2.7ad49b23.chunk.js.map": "/MovieSearchApp/static/js/2.7ad49b23.chunk.js.map",
+    "index.html": "/MovieSearchApp/index.html",
+    "static/js/2.7ad49b23.chunk.js.LICENSE.txt": "/MovieSearchApp/static/js/2.7ad49b23.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f74b2c24.js",
+    "static/js/2.7ad49b23.chunk.js",
+    "static/js/main.460b507a.chunk.js"
+  ]
+}
